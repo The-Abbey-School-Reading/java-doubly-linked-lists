@@ -1,4 +1,4 @@
-# java-doubly-linked-lists
+# Example Java for Doubly Linked Lists
 
 Feel free to play around a bit with this code. Here are some ideas:
 
